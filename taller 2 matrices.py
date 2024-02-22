@@ -75,7 +75,7 @@ class Matrix:
         - escalar: el escalar por el cual se multiplicará el renglón i antes de sumarlo.
         """
         for k in range(self.cols):
-            self.elements[i * self.cols + k] += self.elements[j * self.cols + k] * escalar
+            self.elements[i * self.cols + k] += self.elements[j * self.cols + k] 
 
 
 class TestMatrixMethods(unittest.TestCase):
