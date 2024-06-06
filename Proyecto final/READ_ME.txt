@@ -9,6 +9,9 @@ perceptron_training.txt: entrenamiento guardado.
 seguidor con perceptron.py: Este archivo implementa la clase Matriz y hace uso del txt de entrenamiento para predecir la dirección.
 seguidor con aprendizaje con refuerzo.py: Este archivo utiliza los dos perceptrones y el entrenamiento para seguir la linea mejorando consecutivamente. 
 
+Video de explicación:
+https://youtu.be/Try4CjK5-8c?si=rf2iuKJCq7WEjK5d
+
 
 Presentado por:
 Elvis Salazar Mendez
@@ -17,4 +20,5 @@ Julian Santiago Moreno Cucaita
 20201005114
 Cristian David Barragan
 20211005074
+
 
